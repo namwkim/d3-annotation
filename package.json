@@ -81,13 +81,13 @@
   },
   "types": "./types/d3-svg-annotation.d.ts",
   "dependencies": {
-    "@types/d3-dispatch": "1.0.4",
-    "@types/d3-selection": "1.0.10",
-    "d3-dispatch": "1.0.2",
+    "@types/d3-dispatch": "1",
+    "@types/d3-selection": "1",
     "d3-drag": "github:namwkim/d3-drag",
-    "d3-selection": "1.0.2",
-    "d3-shape": "1.0.4",
-    "d3-transition": "1.0.3"
+    "d3-dispatch": "1",
+    "d3-selection": "1"
+    "d3-shape": "1",
+    "d3-transition": "1"
   },
   "homepage": "http://d3-annotation.susielu.com"
 }
