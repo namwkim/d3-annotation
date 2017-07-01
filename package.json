@@ -85,7 +85,7 @@
     "@types/d3-selection": "1",
     "d3-drag": "github:namwkim/d3-drag",
     "d3-dispatch": "1",
-    "d3-selection": "1"
+    "d3-selection": "1",
     "d3-shape": "1",
     "d3-transition": "1"
   },
